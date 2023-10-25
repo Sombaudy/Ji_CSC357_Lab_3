@@ -3,7 +3,6 @@
 #include <unistd.h>
 #include <fcntl.h>
 
-#define ARR_SIZE 1
 
 int main() {
     char *path = "/usr/lib/locale/locale-archive";
